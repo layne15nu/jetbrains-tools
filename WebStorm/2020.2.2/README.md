@@ -1,6 +1,14 @@
 # WebStorm 2020.2.2
 
----
+## IDE下载
+
+https://www.jetbrains.com/webstorm/download/other.html
+
+## 工具下载
+
+点击下载：[jetbrains-agent.jar](https://raw.githubusercontent.com/layne15nu/jetbrains-tools/main/WebStorm/2020.2.2/jetbrains-agent.jar)
+
+将文件拖到IDE窗口中进行安装
 
 ## 安装参数
 
